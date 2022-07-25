@@ -13,7 +13,7 @@ askaks
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-rusl4n&repo=D-rusl4n.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-rusl4n&repo=D-rusl4n.github.io)](https://github.com/D-rusl4n/D-rusl4n.github.io)
 
 ## Contatos
 
