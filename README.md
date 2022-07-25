@@ -9,7 +9,7 @@ askaks
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-rusl4n&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-rusl4n&theme=dark)](https://github.com/D-rusl4n/D-rusl4n.github.io)
 
 # Projetos
 
