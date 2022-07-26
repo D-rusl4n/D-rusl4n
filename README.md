@@ -2,7 +2,10 @@
 
 ### Bio
 
-askaks
+Me chamo Guilherme.
+Tenho 29 anos, e atualmente trabalho como Administrativo na Gerência de Manutenção Barreiro - SUDECAP.
+Busco uma vaga no mercado onde possa colocar minhas habilidades em prática e colaborar com equipes de trabalho, tendo o crescimento da organização e o desenvolvimento pessoal e profissional como focos principais. Posso atuar na área da engenharia e administrativa.
+Estudando sobre programação.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
